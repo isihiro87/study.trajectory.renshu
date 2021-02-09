@@ -9,4 +9,3 @@ app.get('/top',(req,res) => {
   res.render('good.ejs');
 });
 
-app.listen(3000);
